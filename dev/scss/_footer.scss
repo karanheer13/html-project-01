@@ -1,11 +1,10 @@
 footer {
- display: block;
- background-color: #005991;
- width: 100%;
- text-align: center;
+    background-color: $blue;
+    text-align: center;
+    padding: 10px 15px;
+    color: white;
 }
-
-footer p {
- color: white;
- margin: 0;
+footer a{
+    color: white;
+    text-decoration: none;
 }
